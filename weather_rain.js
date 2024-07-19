@@ -1,0 +1,1 @@
+Game.setEnvironment({weather: "rain"})
